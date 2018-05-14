@@ -18,3 +18,5 @@ git push origin master
 ## 받아받아
 git pull origin master
 
+## 지형이 협업
+`정태일 바보`
